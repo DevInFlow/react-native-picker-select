@@ -1,0 +1,4 @@
+-cp src
+-D analyzer-optimize
+-lib react-native
+--interp

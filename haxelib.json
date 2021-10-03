@@ -1,0 +1,16 @@
+{
+    "name": "react-native-picker",
+    "tags": [
+      "react-native"
+    ],
+    "classPath": "src",
+    "contributors": [
+      "varadig"
+    ],
+    "releasenote": "Initial haxelib release.",
+    "version": "1.0.0",
+    "url": "https://github.com/DevInFlow/react-native-picker",
+    "dependencies": {
+        "react-native": "git::https://github.com/DevInFlow/react-native"
+    }
+  }

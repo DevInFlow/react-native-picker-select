@@ -1,0 +1,14 @@
+{
+    "haxe.configurations": [["build.hxml"]],
+    "haxe.buildCompletionCache": true,
+    "haxe.executable": "./node_modules/.bin/haxe",
+    "haxe.displayServer": {
+      "arguments": ["-v"],
+      "print": {
+        "reusing": true
+      }
+    },
+    "haxe.enableCompilationServer": true,
+    "haxe.enableServerView": true
+  }
+  
